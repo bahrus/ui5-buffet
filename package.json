@@ -1,0 +1,23 @@
+{
+  "name": "ui5-buffet",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "ui5-buffet.js",
+  "module": "ui5-buffet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ui5/webcomponents": "1.0.0-rc.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/ui5-buffet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/ui5-buffet/issues"
+  },
+  "homepage": "https://github.com/bahrus/ui5-buffet#readme"
+}
