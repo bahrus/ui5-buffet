@@ -5,10 +5,14 @@
   "main": "ui5-buffet.js",
   "module": "ui5-buffet.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node node_modules/xtal-test/serve.js"
   },
   "dependencies": {
     "@ui5/webcomponents": "1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "xtal-test": "0.0.19"
   },
   "repository": {
     "type": "git",
