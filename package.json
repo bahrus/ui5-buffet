@@ -9,10 +9,10 @@
     "serve": "node node_modules/xtal-test/serve.js"
   },
   "dependencies": {
-    "@ui5/webcomponents": "1.0.0-rc.4"
+    "@ui5/webcomponents": "1.0.0-rc.5"
   },
   "devDependencies": {
-    "xtal-test": "0.0.19"
+    "xtal-test": "0.0.31"
   },
   "repository": {
     "type": "git",
